@@ -11,7 +11,7 @@ import {
  export default function MainRouter() {
     return (
         <Switch>
-            <Route exact path path="/">
+            <Route exact path="/">
                 <Homepage/>
             </Route>
             <Route exact path="/Men">
